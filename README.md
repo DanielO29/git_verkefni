@@ -1,8 +1,41 @@
 # git_verkefni
 
-1. 
-  ### 1.1. cd: Færir mann í aðra skrá hægt er að gera .. cd til að fara upp um eina skrá og fara í ákveðna skrá með cd "skrárnafn".
-  ### 1.2. cd ~: Fer með mann í heima möppuna, sem geymir allar möppur.
-  ### 1.3. ls: Sýnir allar möppur og skjöl í skjalinu sem maður er í.
-  ### 1.4. pwd: Sýnir möppuna sem maður er í.
-  ### 1.5. mkdir: Býr til nýtt skjal. 
+## 1. 
+  #### cd: Færir mann í aðra skrá hægt er að gera .. cd til að fara upp um eina skrá og fara í ákveðna skrá með cd "skrárnafn".
+  #### cd ~: Fer með mann í heima möppuna, sem geymir allar möppur.
+  #### ls: Sýnir allar möppur og skjöl í skjalinu sem maður er í.
+  #### pwd: Sýnir möppuna sem maður er í.
+  #### mkdir: Býr til nýtt skjal. 
+
+## 2.
+  #### git clone: Býr til annað afrit af möppu sem maður á.
+  #### git log: Leyfir manni að sjá hvað gerðist eða þá sögu fyrir ákveðna möppu.
+  #### git status: Sýnir stöðuna á möppuni þinni.
+  #### git diff: Sýnir breytt skjöl.
+  #### git checkout: Breytir yfir í aðrar greinar.
+
+## 3.
+  #### Git diff: Sýnir breytt skjöl, git diff --staged hefur samheitið git diff --cached og sýnir beytt skjöl á uppsetningarsvæðinu, git diff commit1 commit2 ber saman ákvarðanirnar og finnur breytinguna á þeim.
+
+## 4.
+  #### e.versian control er það sem stýrir hvaða útgáfur maður vill fara í.
+
+## 5.
+  #### Í fyrsta lagi er gott að nota GIT því það er frítt. GIT er líka gott fyrir hópaverkefni.
+
+## 6.
+  #### Gott er að ákveða breytingarnar ef það eru miklar breytingar í skjalinu.
+
+## 7.
+  #### Working directory: Er mappan sem maður er í.
+  #### Staging area: Er staður sem maður gerir breytingar áður en maður ákveður í möppu.
+  #### Repository: Er geymsla sem geymir allar ákvarðanir.
+
+## 8.
+  #### Greinar eru góðar til að skipta verkefnum í flokka.
+
+## 9.
+  #### Linus Torvald bjó til GIT 2005 en hann Junio Hamano tók við GIT seinna árið 2005.
+
+## 10.
+  #### GIT er mest notað fyrir fyrirtæki og fyrir verkefni.
