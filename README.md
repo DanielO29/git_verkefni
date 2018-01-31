@@ -1,3 +1,3 @@
 # git_verkefni
 
-## Fysta Git Verkefniğ
+## Fyrsta Git Verkefniğ
